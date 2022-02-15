@@ -27,6 +27,8 @@ url: "https://jayanth49.github.io" # the base hostname & protocol for your site,
 twitter_username: Jayanth
 github_username:  Jayanth49
 
+author: Jayanth
+# title-logo: /images/title_logo.jiff
 # Build settings
 theme: minima
 plugins:
