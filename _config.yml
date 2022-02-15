@@ -62,8 +62,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-<<<<<<< HEAD
-theme: jekyll-theme-cayman
-=======
-theme: jekyll-theme-slate
->>>>>>> 185fd9002ba04bff75a3ce55bcfe6b7579058bf9
+# <<<<<<< HEAD
+# theme: jekyll-theme-cayman
+# =======
+# theme: jekyll-theme-slate
+# >>>>>>> 185fd9002ba04bff75a3ce55bcfe6b7579058bf9
