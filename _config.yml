@@ -28,12 +28,12 @@ twitter_username: Jayanth
 github_username:  Jayanth49
 
 author: Jayanth
-# title-logo: /images/title_logo.jiff
+# title-logo: /images/title_logo-2.jiff
 # Build settings
 # theme: minima
 # plugins:
 #   - jekyll-feed
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -62,4 +62,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
