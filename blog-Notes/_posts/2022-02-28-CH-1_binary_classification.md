@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brainless Noter!"
+title:  "Is It 3 or 7 ?? !"
 date:   2022-02-28 17:27:55 +0530
 category: Notes
 ---
